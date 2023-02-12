@@ -43,9 +43,9 @@ Please run *.slx or *\_ode.m files first to get simulation result, after which y
 
 ​      
 
-   
 
-
+## Contact
+Weijia Yao                   weijia.yao.new@outlook.com
 
 
 
